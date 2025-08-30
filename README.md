@@ -2,7 +2,7 @@
 
 ![.NET](https://img.shields.io/badge/.NET-9.0-blue)
 ![C#](https://img.shields.io/badge/C%23-Language-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 A Clean Architecture-based .NET 9 WebAPI that provides current weather and daily forecasts for a given location.
 
@@ -30,7 +30,7 @@ A Clean Architecture-based .NET 9 WebAPI that provides current weather and daily
 ## Examples (Current and Forecast Weather)
 
 ![Current Weather](images/CurrentWeatherExample.png)
-![Forecast Weather](images/ForecastWeatherExample.png)
+![Forecast Weather](images/WeatherForecastExample.png)
 
 
 ## Getting Started
