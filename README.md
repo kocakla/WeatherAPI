@@ -25,12 +25,12 @@ A Clean Architecture-based .NET 9 WebAPI that provides current weather and daily
 
 ## Architecture Overview
 
-![Clean Architecture](WeatherAPI/images/ArchtitectureOverview.png)
+![Clean Architecture](images/ArchtitectureOverview.png)
 
 ## Examples (Current and Forecast Weather)
 
-![Current Weather](WeatherAPI/images/CurrentWeatherExample.png)
-![Forecast Weather](WeatherAPI/images/ForecastWeatherExample.png)
+![Current Weather](images/CurrentWeatherExample.png)
+![Forecast Weather](images/ForecastWeatherExample.png)
 
 
 ## Getting Started
